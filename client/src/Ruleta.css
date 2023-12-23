@@ -1,0 +1,15 @@
+/* ImageSlider.css */
+.image-slider-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider-image {
+  width: 100px;
+  margin: 0 10px;
+}
+
+.main-image {
+  width: 200px;
+}
